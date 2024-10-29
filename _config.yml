@@ -5,7 +5,7 @@ name: "A Free Job Market Profile in Jekyll"
 email: 
 url: "https://joejrobin.github.io"
 baseurl: "/Joe-Robin-Profile"
-repository: "joejrobin/Joe-Robin-Profile"
+repository: "/Joe-Robin-Profile"
 header:
   image: /assets/images/banner-husky.jpg
 
